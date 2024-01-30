@@ -17,3 +17,6 @@ https://www.figma.com/file/qFiHTXxCtR6kdUbfNIK3C9/%D0%92%D0%B5%D0%BB%D0%BE%D1%81
 
 <h2>Генератор градиента</h2>
 https://cssgradient.io/
+
+
+git add . && git commit -m "Магазин велосипедов(С.Дудукало)" && git push
